@@ -1,5 +1,8 @@
 # Tinkermore
+## Socials
+- [Twitter](https://twitter.com/tinkermorecity)
+- [Github](https://github.com/TinkermoreCity)
+- [Reddit](https://www.reddit.com/user/TinkermoreCity)
 
-Organization README.md so we can provide ourself directory links and information and team directory stuff.
-
-it'll be cool.
+## Bookmarked Tools
+- [Gimp (Browser)](https://fixthephoto.com/online-gimp-editor.html)
